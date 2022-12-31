@@ -18,5 +18,3 @@ if (len(sys.argv) > 1):
 			strings = strings + ' ' + str
 
 print(strings[::-1].swapcase())
-# for thing in sys.argv:
-# 	print(thing, end=" ")
